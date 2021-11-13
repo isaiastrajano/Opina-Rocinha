@@ -16,3 +16,18 @@ Foram utilizadas as tecnologias e abordagens:
 
 
 O projeto teve sua importância reconhecida como uma ferramenta de informação social por órgãos de saúde locais e jornalismo comunitário.
+
+
+Link das matérias:
+
+     - Portal voz das comunidades : https://www.vozdascomunidades.com.br/comunidades/jovens-da-rocinha-criam-pesquisa-para-entender-situacao-de-moradores-em-meio-a-pandemia/
+     
+     - Agência de notícias das favelas: https://www.anf.org.br/medo-e-o-que-define-a-pandemia-entre-os-moradores-da-rocinha/
+     
+    
+Episódio do PodCast "Entretantos" com o jornalista Edu Carvalho
+     
+     - Episódio #10 A pandemia nas favelas - parte 2: https://open.spotify.com/episode/71BKLZMuEQoterDGptYJsL?si=_yp3eL6nRPOMnV3qLwPubQ&utm_source=whatsapp
+
+
+Link do Dashboard: https://bit.ly/3119FxB
