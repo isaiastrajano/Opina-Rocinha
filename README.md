@@ -4,7 +4,7 @@ Projeto que desenvolvi para mapear os impactos e vulnerabilidades dos moradores 
 
 O objetivo do projeto é levantar dados sobre os impactos da pandemia do coronavírus na favela da Rocinha, RJ. Dados foram coletados via pesquisa web sobre as condições de saúde fisiológica e mental, condições de moradia, acesso a alimentação, sintomas de doenças e principais meios de informação, etc.
 
-Desenvolvi e coordenei junto a equipe a pesquisa social, tratamento dos dados e elaboração de um dashboard interativo para visualização dos dados coletados.
+Desenvolvi e coordenei junto a equipe a pesquisa social, tratamento dos dados e elaboração de um dashboard interativo para visualização dos dados coletados, foi adicionado uma nuvem de palavras com os sentimentos descritos pelos moradores na pesquisa social.
 
 Foram utilizadas as tecnologias e abordagens:
 - Power Bi;
@@ -29,5 +29,5 @@ Episódio do PodCast "Entretantos" com o jornalista Edu Carvalho
      
      - Episódio #10 A pandemia nas favelas - parte 2: https://open.spotify.com/episode/71BKLZMuEQoterDGptYJsL?si=_yp3eL6nRPOMnV3qLwPubQ&utm_source=whatsapp
 
-
+Foi adicionado a imagem em JPEG das duas páginas do dashboard para melhor visualização.
 Link do Dashboard: https://bit.ly/3119FxB
